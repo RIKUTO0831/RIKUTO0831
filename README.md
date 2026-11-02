@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🥈 Kaggle | AI Agent Security 銀メダル 153rd out of 4186 teams.
+- 🥈 Kaggle | Biohub　 銀メダル 38th out of 3947 teams.
+- 🔗 Kaggle: https://www.kaggle.com/rikutokuwayama
 <!--
 **RIKUTO0831/RIKUTO0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
